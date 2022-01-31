@@ -1,8 +1,8 @@
 # Hi Shewit here👋
-### With Civil and Environmental Engineering background
 
 
-Here are some ideas to get you started:
+
+
 
 - 🌱 I’m currently learning ...to become front end web developer
 - 😄 Pronouns: ... She/Her
