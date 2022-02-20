@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning to become front end web developer
+- 🌱 I’m excited to learn programming.
 - 😄 Pronouns: She/Her
 - 😄 Favorite TV series: [FRIENDS] (https://www.youtube.com/watch?v=7ES5eEAb6Dw&ab_channel=HBOMax)
 - ⚡ Fun fact: I like sunrise/set and taking photographs as a hobby
