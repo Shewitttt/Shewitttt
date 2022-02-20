@@ -5,7 +5,6 @@
 ### Based in: Leuven
 
 ### Pronoun: She/Her
-### email: shewitta6@gmail.com
 
 - 🌱 I’m excited to learn programming.
 - 📚 I'm learning level A1 Dutch.
@@ -19,11 +18,13 @@
 1. Create my own website
 2. Develop tools (softwares) with social impact
 
-| Name      | Address  |
-| --------- | -------- |
-| Student 1 | Brussels |
-| Student 2 | Leuven   |
-| Student 3 | Ghent    |
+| Language | level              |
+| -------- | ------------------ |
+| Tigrigna | Mother tongue      |
+| Amharic  | Mother tongue      |
+| English  | Professional level |
+| French   | Beginner           |
+| Dutch    | Beginner           |
 
 ```
  hey a trial for a code snippet
