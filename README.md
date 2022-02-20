@@ -5,6 +5,7 @@
 ### Based in: Leuven
 
 ### Pronoun: She/Her
+### email: shewitta6@gmail.com
 
 - 🌱 I’m excited to learn programming.
 - 📚 I'm learning level A1 Dutch.
